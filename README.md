@@ -284,23 +284,23 @@
      - AG National Evangelists
    - [Education](https://ag.org/Ministries/Education)
      - [AG Alliance for Higher Education](http://colleges.ag.org/)
-       - ASSEMBLIES OF GOD THEOLOGICAL SEMINARY
-       - CARIBBEAN THEOLOGICAL COLLEGE
-       - CHRIST MISSION COLLEGE
-       - EVANGEL UNIVERSITY
-       - GLOBAL UNIVERSITY
-       - KOREAN ASSEMBLIES OF GOD THEOLOGICAL SCHOOL OF NEW YORK
-       - LABI COLLEGE
-       - LUMBEE RIVER CHRISTIAN COLLEGE
-       - NORTH CENTRAL UNIVERSITY
-       - NORTHPOINT BIBLE COLLEGE
-       - NORTHWEST UNIVERSITY
-       - SOUTHEASTERN UNIVERSITY
-       - SOUTHWESTERN ASSEMBLIES OF GOD UNIV. (AMERICAN INDIAN COLLEGE)
-       - SOUTHWESTERN ASSEMBLIES OF GOD UNIVERSITY
-       - TRINITY BIBLE COLLEGE
-       - UNIVERSITY OF VALLEY FORGE
-       - VANGUARD UNIVERSITY
+       - Assemblies of God Theological Seminary
+       - Caribbean Theological College
+       - Christ Mission College
+       - Evangel University
+       - GLOBAL University
+       - Korean Assemblies of God Theological School of New York
+       - Lambi College 
+       - Lumbee River Christian College
+       - North Central University
+       - Northpoint Bible College
+       - Northwest University
+       - Southeastern University
+       - Southwestern Assemblies of God Univ. (American Indian College)
+       - Southwestern Assemblies of God University
+       - Trinity Bible College
+       - University of Valley Forge
+       - Vanguard University
      - [Center for Holy Lands Studies](https://thechls.org/)
      - [Christian Schools](https://www.actsschools.org/)
      - [Curriculum]
